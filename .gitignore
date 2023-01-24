@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2023 metaquarx <metaquarx@protonmail.com>
+# SPDX-License-Identifier: Apache-2.0
+
+# Project files
+
+*.sublime-*
+
+# Clangd cache
+
+.cache
+
+# Build files
+
+build/
